@@ -1505,8 +1505,13 @@ header .circle {
     padding-bottom: 1.5rem;
   }
 
-  .logo {
+  /* update the logo*/
+  /* .logo{
     width: 65px;
+  } */
+  .logo {
+    width: 150px;
+    padding-top: 5rem;
   }
 
   .links a {
