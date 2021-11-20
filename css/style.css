@@ -18,9 +18,15 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+/* added bg color ❗change*/
 html {
   scroll-behavior: smooth;
+  background: rgb(238, 174, 202);
+  background: radial-gradient(
+    circle,
+    rgba(238, 174, 202, 1) 0%,
+    rgba(148, 187, 233, 0.5174013921113689) 100%
+  );
 }
 
 body,
